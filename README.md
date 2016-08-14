@@ -1,2 +1,3 @@
 # clui-gui
-Lightweight data-bound gui framework for jQuery
+Lightweight components for browser-based applications. 
+Bootstrap/jQuery || Material Design Lite!
