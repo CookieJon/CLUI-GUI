@@ -1,3 +1,3 @@
 # clui-gui
-Lightweight components for browser-based applications. 
-Bootstrap/jQuery || Material Design Lite!
+Clever components for the greater Gui.
+(Bootstrap+jQuery) || (Material Design Lite)
